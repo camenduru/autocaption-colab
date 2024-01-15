@@ -13,6 +13,7 @@ https://github.com/fictions-ai/autocaption
 
 ### 🖼 Output
 
+https://github.com/camenduru/autocaption-colab/assets/54370274/6b942749-7ba3-45e6-8e8d-c09eef2efc63
 
 ### 🏢 Sponsor
 https://modelslab.com
