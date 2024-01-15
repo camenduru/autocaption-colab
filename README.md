@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/DDColor-colab/blob/main/autocaption_colab.ipynb) | autocaption_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/autocaption-colab/blob/main/autocaption_colab.ipynb) | autocaption_colab
 
 ### 🧬 Code
 https://github.com/fictions-ai/autocaption
